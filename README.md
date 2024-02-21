@@ -1,6 +1,6 @@
 # Machine-Learning-algorithms
 The Machine Learning algorithms are taken from the book Python Data Science Handbook written by Jake VanderPlas (a really AWESOME work).
-I have selected some important parts of this book about machine learning algorithms.
+I have selected some important parts of this book about machine learning algorithms and tried to make this work brief and clear.
 Several changes are made to make sure the codes could run (as some libraries are constantly being updated).
 The establishment of this repository is only for academic purposes.
 
